@@ -1,1 +1,1 @@
-print("Hello Karnataka")
+print("Hello ")
